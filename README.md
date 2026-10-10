@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date: October 10th 2026
+Project Creation Date: October 10th 2026
 author: Mikayla Hall
